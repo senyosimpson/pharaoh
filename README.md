@@ -1,2 +1,3 @@
-# pharaoh
-A wrapper around structlog with defaults I like
+# Sphynx
+
+A wrapper around `structlog` with nice defaults
